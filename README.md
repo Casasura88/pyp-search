@@ -4,4 +4,4 @@ cd pyp-search
 
 chmod +x pyp-search.sh
 
-sh pyp-search.sh <pypi search term>
+sh pyp-search.sh << search term>>
